@@ -6,6 +6,7 @@
 IDEF0-диаграмма регистрации в GitHub
 ![none](https://github.com/Kseniia-68/Ksenia-68.github.io/blob/master/1.png)
 
+![none](https://github.com/Kseniia-68/Ksenia-68.github.io/blob/master/2.png)
 ## Лабораторная работа 2
 ## Лабораторная работа 3
 ## Лабораторная работа 4
