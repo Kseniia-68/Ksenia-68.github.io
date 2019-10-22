@@ -3,7 +3,7 @@
 # Студент группы [ИДБ-16-06](https://github.com/stankin/design-1/wiki/list-idb-16-06) Чистякова К.А.
 ## Лабораторная работа 1
 Знакомство с основными инструментами и нотациями
-
+![none]https://github.com/Kseniia-68/Ksenia-68.github.io/blob/master/1.png
 
 ## Лабораторная работа 2
 ## Лабораторная работа 3
