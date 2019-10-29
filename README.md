@@ -31,6 +31,10 @@ DFD: ![none](https://github.com/Kseniia-68/Ksenia-68.github.io/blob/master/22.PN
 
 DFD: 
 ![none](https://github.com/Kseniia-68/Ksenia-68.github.io/blob/master/22.PNG)
+
+Диаграмма последовательности: 
+
+![none](https://github.com/Kseniia-68/Ksenia-68.github.io/blob/master/3.2.PNG)
 ## Лабораторная работа 4
 ## Лабораторная работа 5
 ## Лабораторная работа 6
