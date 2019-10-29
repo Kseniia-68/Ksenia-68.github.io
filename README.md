@@ -36,7 +36,8 @@ DFD:
 
 ![none](https://github.com/Kseniia-68/Ksenia-68.github.io/blob/master/3.2.PNG)
 
-![none]()
+ERD:
+![none](https://github.com/Kseniia-68/Ksenia-68.github.io/blob/master/3.3.1.PNG)
 ## Лабораторная работа 4
 ## Лабораторная работа 5
 ## Лабораторная работа 6
