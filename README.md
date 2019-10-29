@@ -26,6 +26,7 @@ DFD: ![none](https://github.com/Kseniia-68/Ksenia-68.github.io/blob/master/22.PN
 ## Лабораторная работа 3
 
 Диаграмма прецедентов:
+
 ![none](https://github.com/Kseniia-68/Ksenia-68.github.io/blob/master/3.1..PNG)
 
 DFD: 
